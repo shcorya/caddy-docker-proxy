@@ -1,4 +1,4 @@
-module github.com/lucaslorentz/caddy-docker-proxy/v2
+module github.com/shcorya/caddy-docker-proxy
 
 go 1.18
 
@@ -53,7 +53,6 @@ require (
 	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/golang/snappy v0.0.4 // indirect
 	github.com/google/cel-go v0.13.0 // indirect
-	github.com/google/pprof v0.0.0-20230207041349-798e818bf904 // indirect
 	github.com/google/uuid v1.3.0 // indirect
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.15.0 // indirect
 	github.com/huandu/xstrings v1.4.0 // indirect
